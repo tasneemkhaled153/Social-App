@@ -1,0 +1,14 @@
+1- display posts
+2- add post form
+3- display comments
+5- display post Details
+4- add comment form
+6- delete post
+7- update post
+8- delete comment
+9- update comment
+10- toast for eavry update or delete
+11- Loader
+
+
+
