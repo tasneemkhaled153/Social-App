@@ -6,5 +6,5 @@ import flowbiteReact from "flowbite-react/plugin/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss(), flowbiteReact()],
-  base: process.env.NODE_ENV === 'production' ? '/tasneem-app/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/Social-App/' : '/',
 })

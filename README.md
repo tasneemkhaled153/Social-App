@@ -33,8 +33,8 @@ A modern social media application built with React and Vite by Tasneem.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/tasneem-app.git
-cd tasneem-app
+git clone https://github.com/tasneemkhaled153/Social-App.git
+cd Social-App
 ```
 
 2. Install dependencies
@@ -57,7 +57,7 @@ npm run dev
 ## Deployment
 
 This project is configured for GitHub Pages deployment. The live version is available at:
-https://yourusername.github.io/tasneem-app/
+https://tasneemkhaled153.github.io/Social-App/
 
 ### Manual Deployment
 
